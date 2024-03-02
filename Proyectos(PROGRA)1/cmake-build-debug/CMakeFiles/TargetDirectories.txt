@@ -1,0 +1,3 @@
+C:/Users/andyo/OneDrive/Escritorio/Proyectos(PROGRA)1/cmake-build-debug/CMakeFiles/Proyectos_PROGRA_1_.dir
+C:/Users/andyo/OneDrive/Escritorio/Proyectos(PROGRA)1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andyo/OneDrive/Escritorio/Proyectos(PROGRA)1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
